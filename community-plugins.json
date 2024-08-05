@@ -12892,5 +12892,12 @@
         "author": "Technerium",
         "description": "Graph of the Number of Files in the Vault.",
         "repo": "technerium/obsidian-vault-size-history"
-    }
+    },
+	{
+		"id": "daily-routine",
+		"name": "Daily Routine",
+		"description": "Transforms daily todos into 'routines' to support your daily productivity.",
+		"author": "sechan100",
+	  	"repo": "sechan100/daily-routine"
+	}
 ]
